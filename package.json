@@ -1,0 +1,16 @@
+{
+  "name": "with-catch",
+  "version": "0.1.0",
+  "description": "",
+  "main": "mod.ts",
+  "scripts": {
+    "test": "node --test --experimental-strip-types --experimental-test-coverage mod.test.ts"
+  },
+  "keywords": [],
+  "author": "tfkhdyt",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  },
+  "type": "module"
+}
